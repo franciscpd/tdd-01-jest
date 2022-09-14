@@ -1,0 +1,19 @@
+{
+  "name": "tdd-01-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
